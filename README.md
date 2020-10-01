@@ -3,6 +3,7 @@
 Auto Insurance
 
 The project was completed on desktop with jupyter notebook. if running on system, please run part 1 and then part 2.
+After running part 1, some additional .csv files will be generated.
 HTML files will be automaticaly opened on desktop, however on github/colab it may not work as expected.
 Please make sure to install the required libraries as used in both the parts.
 
